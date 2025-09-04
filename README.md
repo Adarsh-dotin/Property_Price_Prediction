@@ -20,7 +20,7 @@ This project aims to build a predictive model for property prices using machine 
 
 ---
 
-**How to Run the Project**  
+## How to Run the Project
 Clone this repository:  
 ```bash
 git clone https://github.com/yourusername/Property_Price_Prediction.git
