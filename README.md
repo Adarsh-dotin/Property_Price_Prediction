@@ -29,9 +29,9 @@ cd propert_price_prediction
 ---
 
 ## Install dependencies:
-pip install -r requirements.txt
-Run the Jupyter Notebook to explore the analysis and model training:
-jupyter notebook
+- pip install -r requirements.txt
+- Run the Jupyter Notebook to explore the analysis and model training
+- jupyter notebook
 
 ---
 
