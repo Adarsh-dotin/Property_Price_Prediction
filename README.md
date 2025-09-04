@@ -36,11 +36,11 @@ cd propert_price_prediction
 ---
 
 ## Project Workflow
-✔ - **Data Collection & Cleaning**: Processed dataset to handle missing values, outliers, and feature encoding.
-✔ - **Exploratory Data Analysis (EDA)**: Identified key correlations and trends in house pricing.
-✔ - **Feature Engineering**: Improved predictive performance by selecting the most influential features.
-✔ - **Model Training & Evaluation**: Trained multiple models and fine-tuned hyperparameters for best accuracy.
-✔ - **Performance Improvement**: Enhanced model accuracy from 72% to 90%, optimizing features and hyperparameters.
+- **Data Collection & Cleaning**: Processed dataset to handle missing values, outliers, and feature encoding.
+- **Exploratory Data Analysis (EDA)**: Identified key correlations and trends in house pricing.
+- **Feature Engineering**: Improved predictive performance by selecting the most influential features.
+- **Model Training & Evaluation**: Trained multiple models and fine-tuned hyperparameters for best accuracy.
+- **Performance Improvement**: Enhanced model accuracy from 72% to 90%, optimizing features and hyperparameters.
 
 ---
 
