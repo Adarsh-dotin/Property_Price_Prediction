@@ -55,7 +55,7 @@ cd propert_price_prediction
 The dataset consists of:
 
 - **Features**: Square footage, number of rooms, location, year built, etc.
-- **Target Variable**: House price
+- **Target Variable**: Property price
 - **Size**: ~21000+ rows, 20+ features
 
 ---
