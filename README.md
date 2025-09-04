@@ -50,4 +50,4 @@ Future Improvements<br>
 🧠 Experiment with deep learning models for further accuracy improvements.<br><br>
 
 Project Preview<br>
-![Results](https://github.com/user-attachments/assets/338fee4b-bd96-4c2c-a32b-7b4deef139fb)
+![Results](https://github.com/Adarsh-dotin/Property_Price_Prediction/blob/main/Results.png)
