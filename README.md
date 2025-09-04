@@ -25,7 +25,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/Property_Price_Prediction.git
 cd propert_price_prediction
-
+```
 ---
 
 ## Install dependencies:
