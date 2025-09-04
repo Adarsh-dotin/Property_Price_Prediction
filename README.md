@@ -17,8 +17,8 @@ Visualization: Seaborn, Matplotlib for insights into feature relationships<br><b
 
 How to Run the Project<br>
 Clone this repository:<br>
-git clone https://github.com/yourusername/house-price-prediction.git<br>
-cd house-price-prediction<br><br>
+git clone https://github.com/yourusername/Property_Price_Prediction.git<br>
+cd propert_price_prediction<br><br>
 
 Install dependencies:<br>
 pip install -r requirements.txt<br>
